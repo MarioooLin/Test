@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
  Git/ GitHub 測試
 
 輸入自己的名字，然後傳回我的 Github 建立一個 branch
@@ -7,3 +8,18 @@
 潘冠12/10/13:40
 
 Mario
+=======
+ Git/ GitHub 測試
+
+輸入自己的名字，然後傳回我的 Github
+
+
+蔡億霖
+
+潘冠12/10/13:40
+
+許忠進 12/10 15:14 666
+
+再次測試 1210 04:26
+
+>>>>>>> Stashed changes
